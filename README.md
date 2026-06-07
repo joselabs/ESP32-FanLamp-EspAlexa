@@ -39,3 +39,6 @@ Storing the fan state in the ESP32's Flash memory (`Preferences`) leads to desyn
 
 ## 💡 Notes on Device Types
 The lights are exposed to Alexa as `whitespectrum` rather than `color` to provide native sliders for Brightness and Color Temperature (Warm/Cold) without the confusing RGB UI.
+
+
+Made with the help of Gemini 3.1 😘
